@@ -119,5 +119,6 @@ openclaw gateway run
 最新改版似乎需要机器人id,在控制面板输入.\\openclaw config set providers.discord.applicationId "你的应用程序ID数字"
 
 ###### 3\.如果想换别的模型，可以在跑通后指挥openclaw,让他来修改
+模型要选择国外版的模型，qwen一件配置即可，minmax分国内国外版，qwen也是，国内版限制贼多，glm最近太火，延迟太高，还可以白嫖英伟达模型，地址是：build.nvidia.com/models，可以免费白嫖英伟达模型，但是有请求限制，本人感觉该模型有点傻，只说话不办事
 
 
